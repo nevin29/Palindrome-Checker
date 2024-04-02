@@ -1,9 +1,3 @@
-// Name: <Nevin Gutta>
-// Class: CS 3305/Section#
-// Term:
-// Instructor: Umama Tasnim
-// Assignment: 3
-
 import java.util.*;
 public class testPalindrome {
 
